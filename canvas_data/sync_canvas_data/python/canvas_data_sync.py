@@ -71,7 +71,7 @@ from canvasfuncs import hmacsig, candata
 ###############################################################################
 
 # set local timezone abbreviation to differentiate
-local_timezone = 'US/Western'
+local_timezone = 'US/Pacific'
 params = ''
 
 # generate local timestamp (LT) for filenames
